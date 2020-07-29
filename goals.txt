@@ -1,0 +1,13 @@
+Expanding and shrinking circles kill you upon collision:
+    -create death on collision with circle border
+
+player is awarded points for staying alive, and for eating food:
+
+    -create score system display
+    -add random movement to food
+
+as score increases:
+
+    -more circles of death get added
+    -circles expand and shrink at different rates
+    -circles rotate and move
